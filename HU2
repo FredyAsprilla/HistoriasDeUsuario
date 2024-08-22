@@ -1,0 +1,10 @@
+HU2: Reserva de Libros
+•	Descripción: Como usuario, quiero poder reservar un libro en línea para asegurarme de que estará disponible cuando lo necesite.
+•	Criterios de Aceptación:
+o	El usuario puede seleccionar un libro disponible y reservarlo.
+o	El sistema confirma la reserva y envía una notificación al usuario.
+o	Se establece un límite de tiempo para recoger el libro reservado.
+•	Prioridad: Alta
+•	Tamaño: Medio
+•	Dependencias: Sistema de notificaciones, gestión de reservas.
+•	Notas: Considerar la implementación de una cola de reservas si el libro está en alta demanda.
