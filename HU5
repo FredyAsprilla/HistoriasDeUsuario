@@ -1,0 +1,10 @@
+HU5: Historial de Préstamos del Usuario
+•	Descripción: Como usuario, quiero ver un historial de todos los libros que he prestado para mantener un registro de mis lecturas.
+•	Criterios de Aceptación:
+o	El usuario puede acceder a su historial de préstamos.
+o	El sistema muestra detalles de cada préstamo (fecha, título, autor).
+o	El usuario puede ordenar y filtrar su historial.
+•	Prioridad: Baja
+•	Tamaño: Bajo
+•	Dependencias: Base de datos de préstamos, interfaz de usuario.
+•	Notas: Incluir opciones para exportar el historial en formato PDF o Excel.
