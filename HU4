@@ -1,0 +1,10 @@
+HU4: Notificaciones sobre Disponibilidad de Libros
+•	Descripción: Como usuario, quiero recibir notificaciones cuando un libro reservado esté disponible para que pueda recogerlo a tiempo.
+•	Criterios de Aceptación:
+o	El sistema envía notificaciones cuando un libro reservado está disponible.
+o	El usuario puede configurar las preferencias de notificación (email, SMS).
+o	Las notificaciones incluyen detalles del libro y el plazo para recogerlo.
+•	Prioridad: Media
+•	Tamaño: Bajo
+•	Dependencias: Sistema de notificaciones, gestión de reservas.
+•	Notas: Asegurar la entrega puntual de las notificaciones para evitar que los usuarios pierdan reservas.
