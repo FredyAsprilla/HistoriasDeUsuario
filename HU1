@@ -1,0 +1,10 @@
+HU1: Búsqueda de Libros en la Biblioteca
+•	Descripción: Como usuario, quiero poder buscar libros en la biblioteca por título, autor o género, para encontrar rápidamente lo que necesito.
+•	Criterios de Aceptación:
+o	El usuario puede buscar libros por título, autor, y género.
+o	El sistema muestra el estado de disponibilidad del libro.
+o	El usuario puede reservar un libro si está disponible.
+•	Prioridad: Alta
+•	Tamaño: Medio
+•	Dependencias: Base de datos de libros, interfaz de búsqueda.
+•	Notas: Se debe garantizar la precisión en los resultados de búsqueda.
