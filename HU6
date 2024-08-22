@@ -1,0 +1,10 @@
+HU6: Sugerencias de Libros Basadas en el Historial
+•	Descripción: Como usuario, quiero recibir sugerencias de libros basadas en mi historial de préstamos para descubrir nuevas lecturas.
+•	Criterios de Aceptación:
+o	El sistema analiza el historial de préstamos del usuario.
+o	Se muestran sugerencias de libros similares o relacionados.
+o	El usuario puede marcar libros sugeridos como favoritos o ignorarlos.
+•	Prioridad: Baja
+•	Tamaño: Medio
+•	Dependencias: Algoritmo de recomendación, base de datos de libros.
+•	Notas: Mejorar el algoritmo con retroalimentación del usuario sobre las sugerencias.
