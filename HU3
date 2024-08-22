@@ -1,0 +1,10 @@
+HU3: Gestión de Usuarios por el Bibliotecario
+•	Descripción: Como bibliotecario, quiero poder gestionar los perfiles de los usuarios para mantener la organización y control de la biblioteca.
+•	Criterios de Aceptación:
+o	El bibliotecario puede agregar, editar y eliminar usuarios.
+o	El sistema debe permitir asignar roles (ej. usuario, bibliotecario).
+o	Se registra un historial de actividades por cada usuario.
+•	Prioridad: Media
+•	Tamaño: Medio
+•	Dependencias: Sistema de autenticación, base de datos de usuarios.
+•	Notas: Incluir funciones para gestionar permisos y privilegios.
